@@ -3,12 +3,13 @@ body, html{
 }
 
 .hero-image{
-    background-image: url("hero-placeholder.jpg");
+    background-image: url("hero-placeholder.jpg"); /*change image later*/
     height:50%; /*double check height*/
     background-position: center;
     background-repeat:no-repeat;
     background-size: cover;
     position: relative;
+    filter: brightness(90%);
 }
 
 .hero-text{
@@ -18,4 +19,9 @@ body, html{
     left:50%;
     transform: translate(-50%, -50%);
     color: white;
+    filter: brightness(140%);
+}
+
+.shadow{
+    text-shadow:3px 3px #7F8C8D;
 }
