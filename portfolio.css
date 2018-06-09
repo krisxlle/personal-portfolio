@@ -8,8 +8,7 @@ body, html{
     background-position: center;
     background-repeat:no-repeat;
     background-size: cover;
-    position: relative;
-    filter: brightness(90%);
+    position: relative; /*find a way to filter brightness or just edit image*/
 }
 
 .hero-text{
@@ -19,9 +18,8 @@ body, html{
     left:50%;
     transform: translate(-50%, -50%);
     color: white;
-    filter: brightness(140%);
 }
 
 .shadow{
-    text-shadow:3px 3px #7F8C8D;
+    text-shadow:3px 3px; /*color not changing to lighter gray*/
 }
