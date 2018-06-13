@@ -8,7 +8,7 @@ var kimika {
     name: "Kimika",
     description: "An interactive 'crafting' game that can be used to learn about basic chemistry.",
     credits: "Jeanelle Tanhueco",
-    iconsrc: "",
+    iconsrc: "Kimika Icon.png"
 };
 
 var cloud {
@@ -19,7 +19,7 @@ var cloud {
     name: "Sound Reactive Lightning Cloud",
     description: "A cloud-shaped lamp with LEDs that light up based on sound received by a microphone.",
     credits: "Ashley Chu, Karla Jauregui Sandoval, and Samantha McDonough",
-    iconsrc: "",
+    iconsrc: "Cloud Icon.png"
 };
 
 var hoodie {
@@ -29,7 +29,7 @@ var hoodie {
     caption: "Hoodie design before being printed onto hoodies.",
     name: "Class Hoodie Design",
     description: "Design created on Adobe Photoshop for use in class merchandise.",
-    iconsrc: "",
+    iconsrc: "hoodie icon.png"
 };
 
 var asl {
@@ -41,18 +41,18 @@ var asl {
     name: "Sign Academy",
     description: "Website designed to teach users basic American Sign Language (ASL).",
     credits: "Ashley Sanchez, Jianna Li, and Rene Stroughter",
-    iconsrc: "",
+    iconsrc: "asl icon.png"
 };
 
 var gunControl {
     date: "April 20, 2018",
     type: "leadership",
-    imgsrc: "", /*there's a video of this somewhere on my phone*/
-    caption: "",
+    imgsrc: "walkout.JPG",
+    caption: "Conclusion of gun control walkout, in which the leaders delivered a speech.",
     name: "Gun Control Walkout",
     description: "Led and organized walkout calling for increased gun control.",
     credits: "Dorothy Le and Mindy Diep",
-    iconsrc: "",
+    iconsrc: "gun icon"
 };
 
 var googleInterview {
