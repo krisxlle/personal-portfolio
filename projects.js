@@ -52,7 +52,7 @@ var gunControl {
     name: "Gun Control Walkout",
     description: "Led and organized walkout calling for increased gun control.",
     credits: "Dorothy Le and Mindy Diep",
-    iconsrc: "gun icon"
+    iconsrc: "gun icon.png"
 };
 
 var googleInterview {
@@ -64,7 +64,7 @@ var googleInterview {
     name: "Google Interview",
     description: "Interview by KPIX about Google Manifesto, which states that women do not belong in the tech industry.",
     credits: "KPIX-TV",
-    iconsrc: "",
+    iconsrc: "interview icon.png"
 };
 
 var walkoutInterview {
